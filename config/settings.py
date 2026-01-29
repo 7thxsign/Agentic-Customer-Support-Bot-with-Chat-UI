@@ -1,0 +1,4 @@
+AZURE_OPENAI_API_KEY = "key"
+AZURE_OPENAI_ENDPOINT = "endpoint"
+AZURE_DEPLOYMENT_NAME = "gpt-5.2-chat"
+API_VERSION = "2024-02-15-preview"
